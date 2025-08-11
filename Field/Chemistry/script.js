@@ -52,8 +52,8 @@ function resizeContent() {
     content.style.zoom = scale;
 }
 
-//window.addEventListener("resize", resizeContent);
-//window.addEventListener("load", resizeContent);
+window.addEventListener("resize", resizeContent);
+window.addEventListener("load", resizeContent);
 
 var percent = "";
 for(var i = 1000; i >= 5; i--){
@@ -278,4 +278,5 @@ function balanceEquation(compounds,unsur) {
     return solution;
 
 }
+
 
