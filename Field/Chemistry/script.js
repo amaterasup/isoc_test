@@ -48,7 +48,7 @@ function show(unsur){
 }
 function resizeContent() {
     const content = document.getElementsByClassName("periodic-table")[0];
-    const scale = window.innerWidth / 700;
+    const scale = window.innerWidth / 635;
     content.style.zoom = scale;
 }
 
@@ -278,5 +278,6 @@ function balanceEquation(compounds,unsur) {
     return solution;
 
 }
+
 
 
