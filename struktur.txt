@@ -3,7 +3,7 @@
 				<h1>ISOC</h1>
 				<h3>INTERNATIONAL SCIENCE OLYMPIAD CORPORATION</h3>
 			</div>
-			<a id=home href=../Home/index.html></a>
+			<a id=home href=../index.html></a>
 			<div class=drop-down-menu>
 				<button id=button-open onclick=display()></button>
 				<div class=menu>
@@ -32,3 +32,4 @@
 				</div>
 
 			</div>
+
