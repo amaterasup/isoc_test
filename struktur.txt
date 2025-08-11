@@ -9,7 +9,7 @@
 				<div class=menu>
 					<button id=button-closed onclick=display()></button>
 					<div class=option>
-						<a href=../Home/index.html>Home</a>
+						<a href=../index.html>Home</a>
 						<a href=../About/index.html>About</a>
 						<a id=field href= >Field</a>
 						<div class=arrow></div>
@@ -30,4 +30,5 @@
 						<a href=../Contact-Us/index.html>Contact Us</a>
 					</div>
 				</div>
+
 			</div>
