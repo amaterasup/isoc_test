@@ -8,6 +8,7 @@
     transform-origin: top left;
     margin: auto;
     width: fit-content;
+    zoom: 10;
 }
 .data-unsur{
     display: grid;
@@ -181,4 +182,5 @@
 .lingkaran{
     display: flex;
     display: none;
+
 }
