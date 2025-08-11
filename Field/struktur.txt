@@ -3,13 +3,13 @@
 				<h1>ISOC</h1>
 				<h3>INTERNATIONAL SCIENCE OLYMPIAD CORPORATION</h3>
 			</div>
-			<a id=home href=../../Home/index.html></a>
+			<a id=home href=../../index.html></a>
 			<div class=drop-down-menu>
 				<button id=button-open onclick=display()></button>
 				<div class=menu>
 					<button id=button-closed onclick=display()></button>
 					<div class=option>
-						<a href=../../Home/index.html>Home</a>
+						<a href=../../index.html>Home</a>
 						<a href=../../About/index.html>About</a>
 						<a id=field href= >Field</a>
 						<div class=arrow></div>
@@ -30,4 +30,5 @@
 						<a href=../../Contact-Us/index.html>Contact Us</a>
 					</div>
 				</div>
+
 			</div>
