@@ -8,7 +8,7 @@
     transform-origin: top left;
     margin: auto;
     width: fit-content;
-    zoom: 10;
+    zoom: 0.5;
 }
 .data-unsur{
     display: grid;
@@ -184,3 +184,4 @@
     display: none;
 
 }
+
